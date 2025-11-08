@@ -1,24 +1,32 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Hackathons](https://img.shields.io/badge/Hackathons-MLH%20Community-brightgreen?style=flat-square)](https://github.com/ryanfrommlh)
+[![Followers](https://img.shields.io/github/followers/ryanfrommlh?label=Followers&style=flat-square)](https://github.com/ryanfrommlh)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Ryan Lahlou. I'm a Software Engineer at JP Morgan Chase and work with Major League Hacking (MLH). I focus on hackathon projects, developer tools, and building awesome experiences for the hacker community.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: North America
+- 🎓 Education: The University of Texas at Arlington - Computer Science
+- 📅 Hacking Since: 2021
+- 🏢 Current Role: Software Engineer at JP Morgan Chase
+- 🎯 MLH Community: Supporting hackers and building amazing projects
 
 ## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 🎯 [ryanfrommlh](https://github.com/ryanfrommlh/ryanfrommlh) — My GitHub profile repository showcasing my journey in tech and hackathons. (Markdown) — github.com/ryanfrommlh/ryanfrommlh
+
+## Hackathons & Events
+As part of the MLH community, I've been involved in numerous hackathons and tech events:
+
+### Recent Hackathons
+- 🏆 **MLH Events** — Regular participation and involvement in Major League Hacking events across North America
+- 🎯 **Community Builder** — Helping organize and mentor at various MLH-sponsored hackathons
+- 💻 **Hackathon Mentor** — Supporting students and new developers at hackathon events
+
+*Want to see me at your next hackathon? Check out upcoming [MLH events](https://mlh.io/events)!*
 
 ## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+- 🧰 Languages: Python, JavaScript/TypeScript, Java
+- 🔭 Focus: Developer Tools, Hackathon Infrastructure, Community Building
+- ❤️ Interests: Open Source, Competitive Programming, Mentoring Hackers
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
